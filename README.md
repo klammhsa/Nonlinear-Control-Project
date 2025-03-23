@@ -1,7 +1,6 @@
 # **Switched and Variable-Gain Higher-Order Sliding Mode Control**  
 
 This repository provides an implementation of the methods described in the paper:  
-
 **"[A General Framework for Switched and Variable-Gain Higher-Order Sliding Mode Control](https://doi.org/10.1109/TAC.2020.2996423)"**  
 by *Gian Paolo Incremona, Matteo Rubagotti, Mara Tanelli, and Antonella Ferrara* (IEEE Transactions on Automatic Control, 2021).  
 
